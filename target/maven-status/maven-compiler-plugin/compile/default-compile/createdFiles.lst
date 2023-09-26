@@ -1,0 +1,17 @@
+dev\candor\auctions\Core.class
+dev\candor\auctions\util\MenuUtil.class
+dev\candor\auctions\command\CommandTabCompleter.class
+dev\candor\auctions\event\MainMenuListener.class
+dev\candor\auctions\event\RevokeMenuListener.class
+dev\candor\auctions\command\CommandCenter.class
+dev\candor\auctions\event\JoinQuitEvents.class
+dev\candor\auctions\ux\RevokeMenu.class
+dev\candor\auctions\engine\AuctionParticipant.class
+dev\candor\auctions\command\sub\RevokeCommand.class
+dev\candor\auctions\command\ICommand.class
+dev\candor\auctions\engine\ParticipantManager.class
+dev\candor\auctions\command\sub\SellCommand.class
+dev\candor\auctions\util\StringUtil.class
+dev\candor\auctions\engine\AuctionItem.class
+dev\candor\auctions\ux\AuctionMenu.class
+dev\candor\auctions\command\sub\MenuCommand.class

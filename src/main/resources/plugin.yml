@@ -1,0 +1,12 @@
+name: '${project.build.finalName}'
+version: '${project.version}'
+api-version: '1.20'
+main: dev.candor.auctions.Core
+load: STARTUP
+description: A commission project for my application at Candor Services.
+depend:
+  - Vault
+commands:
+  auctionhouse:
+    description: Browse items listed for auction.
+    aliases: [ahouse, ah]
